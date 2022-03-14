@@ -1,6 +1,8 @@
 # js-todo-list
 a vanilla js todo list
 
+View the project here: https://hoggsofwar.github.io/js-todo-list/
+
 This project is based upon another developer's to do list which exists as a tutorial on YouTube. Upon looking at their work, I first of all noticed that the code used for the project was out of date and I wanted to rewrite this project using modern styling such as SCSS and BEM, as well as more modern Javascript. I also discovered some bugs with the project, for example it wasn't responsive, had other styling bugs and some functionality bugs too.
 
 Below is a list of bugs I resolved alongside modernising the code:
