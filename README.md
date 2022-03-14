@@ -5,15 +5,15 @@ This project is based upon another developer's to do list which exists as a tuto
 
 Below is a list of bugs I resolved alongside modernising the code:
 
-Responsive styling for mobile/tablet
-Stop text overflowing in the li checklist if long words are entered into field
-Prevent the user from submitting an empty field
-Modernised the code as it was using out of date styling and javascript.
+- Responsive styling for mobile/tablet
+- Stop text overflowing in the li checklist if long words are entered into field
+- Prevent the user from submitting an empty field
+- Modernised the code as it was using out of date styling and javascript.
 
-Rewrote some functions to use arrow functions
-Refactored the code to move reused sections into their own functions
-Adapted local storage code to store the completed / uncompleted state of each todo item
-Assigned each item and ID to help keep track of each item to apply the completed / uncompleted state and delete from local storage (especially important when multiple todo items contain the same text as the previous code just checked for matching text and deleted the first instance)
+- Rewrote some functions to use arrow functions
+- Refactored the code to move reused sections into their own functions
+- Adapted local storage code to store the completed / uncompleted state of each todo item
+- Assigned each item and ID to help keep track of each item to apply the completed / uncompleted state and delete from local storage (especially important when multiple todo items contain the same text as the previous code just checked for matching text and deleted the first instance)
 
 Links to the original developers tutorial and github project can be found here for comparison on how I improved and fixed it:
 
