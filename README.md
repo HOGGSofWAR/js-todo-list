@@ -14,8 +14,8 @@ Below is a list of bugs I resolved alongside modernising the code:
 
 - Rewrote some functions to use arrow functions
 - Refactored the code to move reused sections into their own functions
-- Adapted local storage code to store the completed / uncompleted state of each todo item
-- Assigned each item and ID to help keep track of each item to apply the completed / uncompleted state and delete from local storage (especially important when multiple todo items contain the same text as the previous code just checked for matching text and deleted the first instance)
+- Adapted local storage code to store the completed / incomplete state of each todo item
+- Assigned each item and ID to help keep track of each item to apply the completed / incomplete state and delete from local storage (especially important when multiple todo items contain the same text as the previous code just checked for matching text and deleted the first instance)
 
 Links to the original developers tutorial and github project can be found here for comparison on how I improved and fixed it:
 
